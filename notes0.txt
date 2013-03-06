@@ -1,0 +1,74 @@
+Hi Sarah and Fred, 
+
+sorry about the delay in getting back to you.  Note, we now
+have access to a 5-axis CNC mill, CNC lathe and CNC router.
+This is in addition to the laser cutter - so we have a few
+additional possibilities w.r.t. fabricating the part.  That
+being said laser cutting is still going to be the cheapest
+option. So if we can finesse the design into something which
+can be laser cut that will help keep the costs down, but we
+do some pretty cheap CNC machining now as well. 
+
+First, a rough summary of what I think you want. 
+
+* a box, dimensions 133.06 x 90 x 25.0 (mm), for holding 7
+small tubes with diameter 12.5mm and length 75mm. 
+
+* the box will not have a top or bottom on the box so that
+the tubes can be easily removed. 
+
+* on the back there are 7 threaded holes (one for each tube)
+for hand screw which are used to hold the tubes in place.
+
+* on the front there 7 threaded "pipe adapter" holes which
+are used for feeding the vapor to the tubes. 
+
+-----------------------------------------------------------
+
+A couple of quick questions regarding the design.  
+
+1. Is clear acrylic OK for the material? Another possibility
+might be polycarbonate.  The main drivers of material
+selection are how you plan to use the part and how we  plan
+to fabricate it. Acrylic will laser cut well, but it can be
+prone to cracking if cleaned frequently with alcohol. As
+this sounds like it might be some sort of olfactory assay so
+cleaning might be important.  With respect to polycarbonate
+- it doesn't laser cut well, but it does machine well. In
+addition polycarbonate won't crack or craze when cleaned
+with alcohol.   
+ 
+2. How critical are dimensions and material thicknesses in
+the drawing?  Are the dimensions (133.06 x 90 x 25.0)
+crucial? or is there some range which is acceptable?  You
+mention that it should fit snuggly over the EchoTherm heat
+block and I'm wonder what constraints this places on the
+design dimensions.
+
+Another example, I calculate the side walls to be ~5mm thick
+and I'm wondering if there is some latitude here. For
+example, stock acrylic sheet come in thicknesses of 1.5mm,
+3mm, 6mm, 12mm, ... and for ease of fabrication and costs it
+might be advantageous to use one of these stock size.  
+
+3. From the drawing I see that the tube diameter is 12.5mm
+and the length is 75mm.  Is there any taper on the tubes?
+Depending on how the tubes are made sometimes the top is
+wider than the bottom.  Would it be possible to get some
+sample tubes?  Will this be the only sides tube used or do
+you need to accommodate a range of sizes? 
+
+4. Do we need a gasket or seal where the open part of the
+tube mates with front of the box? If you are feeding vapor
+into the tubes I'm wondering if will leaking be an issue?  
+
+5. In the drawing, next to each tube, on both the front and
+back pieces (the parts with the threaded holes) I see some
+cylindrical dowels or extrusions which  I'm guessing are
+used to keeping the tube from falling out. Is this correct?
+Is there another purpose for these as well or are they just
+being used to support the tubes? Note, I'm just trying to
+get a feel for where I can make changes, etc.  
+ 
+
+
